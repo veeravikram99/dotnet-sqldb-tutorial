@@ -4,7 +4,7 @@ languages:
   - aspx-csharp
 products:
   - Azure App Service
-  - Azure Web Apps
+  - Azure Web Apps WIN
 ---
 
 # ASP.NET and SQL Database sample for Azure App Service
